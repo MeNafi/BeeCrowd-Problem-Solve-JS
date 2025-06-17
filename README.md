@@ -1,1 +1,1 @@
-# Beecrowd-problem-solve-js
+# BeeCrowd-Problem-Solve-JS
