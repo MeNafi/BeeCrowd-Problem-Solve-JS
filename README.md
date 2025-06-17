@@ -1,1 +1,1 @@
-Here is my all beecrowd problem solves.
+Beecrowd-problem-solve-js
